@@ -1,0 +1,11 @@
+credit_score,income,loan_amount,loan_term,employment_status,loan_approved
+700,60000,25000,15,Employed,1
+650,50000,20000,12,Self-Employed,0
+800,120000,50000,30,Employed,1
+620,40000,15000,10,Unemployed,0
+750,80000,30000,20,Employed,1
+690,70000,28000,25,Self-Employed,1
+680,55000,22000,15,Employed,0
+710,75000,32000,20,Employed,1
+730,90000,35000,30,Self-Employed,1
+640,48000,18000,10,Unemployed,0
